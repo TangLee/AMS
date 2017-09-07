@@ -7,6 +7,17 @@ using namespace std;
 #include "common.h"
 #include "inteface.h"
 int main(){
-	cout<<Entrance();
+	if(Entrance()==1){
+
+	}
+	else if(Entrance()==2){
+
+	}
+	else if(Entrance()==3){
+
+	}
+	else{
+
+	}
 	system("pause");
 }
