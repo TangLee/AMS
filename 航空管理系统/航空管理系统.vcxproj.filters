@@ -26,5 +26,20 @@
     <ClInclude Include="common.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="admin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="register.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="corestruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

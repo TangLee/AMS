@@ -8,4 +8,5 @@ bool InArray(int length,int* arr,int var){
 	}
 	return false;
 }
+
 #endif
